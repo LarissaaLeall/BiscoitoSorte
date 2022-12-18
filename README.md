@@ -4,7 +4,7 @@
 
 Projeto utilizando o JavaScript, desenvolvido através do curso Explorer da Rocketseat.
 
-[🔗clique aqui para acessar](https://larissaaleall.github.io/BiscoitoSorte/)
+[🔗clique aqui para acessar](https://larissaaleall.github.io/BiscoitoSorte/biscoito-da-sorte/)
 
 ## Tecnologias 
 
